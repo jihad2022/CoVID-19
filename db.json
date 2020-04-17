@@ -131,5 +131,25 @@
         }
       ]
     }
-  ]
+  ],
+  "patient_scores": {
+    "fever": 1,
+    "fatigue_tiredness": 2,
+    "sneezing": 2,
+    "body_aches": 2,
+    "headache": 0,
+    "sore_throat": 2,
+    "runny_nose": 4,
+    "watery_eyes": 5,
+    "cough": 1,
+    "shortness_of_breath": 1,
+    "difficulty_breathing": 3,
+    "nausea_loss_of_eppetite": 4,
+    "low_oxygenaion": 5,
+    "loss_of_taste_or_smell": 6,
+    "dairrhea": 2,
+    "tarvelling_history": 2,
+    "contacting_history": 5,
+    "no_protection_measure": 4
+  }
 }
