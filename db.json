@@ -13,7 +13,7 @@
       "lat": 123456.8,
       "long": 123456.8
     }
-  }
+  },
   "other_profiles": [
     {
       "id": 2,
@@ -30,101 +30,101 @@
         "long": 123456.8
       }
     }
-  ]
+  ],
   "complains": [
     {
       "id": 1,
       "name": {
         "ar": "حمى تظهر في الصدر أو الظهر",
         "en": "Fever"
-      }
+      },
       "complain_gardes": [
         {
           "en": "No",
           "ar": "لا"
-        }
+        },
         {
           "en": "Mild",
           "ar": "خفيف جدا"
-        }
+        },
         {
           "en": "Infrequesnt",
           "ar": "خفيف"
-        }
+        },
         {
           "en": "Occasional",
           "ar": "متوسط أو شديد أحيانا"
-        }
+        },
         {
           "en": "Often",
           "ar": "شديد مستمر"
-        }
+        },
         {
           "en": "Common",
           "ar": "شديد متزايد"
         }
       ]
-    }
+    },
     {
       "id": 2,
       "name": {
         "ar": "إرهاق شديد",
         "en": "Fatigue, Tiredness"
-      }
+      },
       "complain_gardes": [
         {
           "en": "No",
           "ar": "لا"
-        }
+        },
         {
           "en": "Mild",
           "ar": "خفيف جدا"
-        }
+        },
         {
           "en": "Infrequesnt",
           "ar": "خفيف"
-        }
+        },
         {
           "en": "Occasional",
           "ar": "متوسط أو شديد أحيانا"
-        }
+        },
         {
           "en": "Often",
           "ar": "شديد مستمر"
-        }
+        },
         {
           "en": "Common",
           "ar": "شديد متزايد"
         }
       ]
-    }
+    },
     {
       "id": 3,
       "name": {
         "ar": "سعال وعطس",
         "en": "Sneezing"
-      }
+      },
       "complain_gardes": [
         {
           "en": "No",
           "ar": "لا"
-        }
+        },
         {
           "en": "Mild",
           "ar": "خفيف جدا"
-        }
+        },
         {
           "en": "Infrequesnt",
           "ar": "خفيف"
-        }
+        },
         {
           "en": "Occasional",
           "ar": "متوسط أو شديد أحيانا"
-        }
+        },
         {
           "en": "Often",
           "ar": "شديد مستمر"
-        }
+        },
         {
           "en": "Common",
           "ar": "شديد متزايد"
