@@ -5,7 +5,7 @@
     "first_name": "John",
     "last_name": "Doe",
     "gender": "M",
-    "birth_date": "01-01-1980"
+    "birth_date": "01-01-1980",
     "age": 40,
     "height": 180,
     "weight": 75,
@@ -21,7 +21,7 @@
       "first_name": "Sara",
       "last_name": "Doe",
       "gender": "F",
-      "birth_date": "01-01-1980"
+      "birth_date": "01-01-1980",
       "age": 40,
       "height": 180,
       "weight": 75,
